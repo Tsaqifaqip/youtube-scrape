@@ -5,7 +5,7 @@
     "main": "server.js",
     "author": "Herman Fassett",
     "dependencies": {
-        "express": "latest",
-        "request": "latest"
+        "express": "^4.17.1",
+        "request": "^2.88.2"
     }
 }
